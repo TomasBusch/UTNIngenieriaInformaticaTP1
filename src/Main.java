@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Helloo World");
+        system.out.println("Helloo World");
         System.out.println("Hola mundo");
 
         File file = new File(
