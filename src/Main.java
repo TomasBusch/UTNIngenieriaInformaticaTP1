@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Helloo World");
         System.out.println("Hola mundo");
 
+        System.out.println("Hola mundo");
+
         File file = new File(
             "..\\config\\secret.txt");  
 
